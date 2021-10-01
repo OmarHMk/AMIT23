@@ -27,6 +27,6 @@ int main()
 
         printf("\nStudent %d\n\nName   : %s\nAge    : %d\nDegree : %.1f\nSection: %d\n",i,arr[i-1].name,arr[i-1].age,arr[i-1].degree,arr[i-1].section);
 
-
+    ///
     return 0;
 }
